@@ -1,0 +1,15 @@
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\bin\Debug\net8.0\Calculadora.Console.exe
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\bin\Debug\net8.0\Calculadora.Console.deps.json
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\bin\Debug\net8.0\Calculadora.Console.runtimeconfig.json
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\bin\Debug\net8.0\Calculadora.Console.dll
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\bin\Debug\net8.0\Calculadora.Console.pdb
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.AssemblyInfo.cs
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.sourcelink.json
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.dll
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\refint\Calculadora.Console.dll
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.pdb
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\Calculadora.Console.genruntimeconfig.cache
+C:\Users\tiago\source\repos\bk-ap-calculadora\src\Calculadora.Console\obj\Debug\net8.0\ref\Calculadora.Console.dll
