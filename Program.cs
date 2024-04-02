@@ -108,8 +108,12 @@ while(userChoice != "exit")
     Console.WriteLine("'exit' - Exit\n'add' - Add\n'subtract' - Subtract\n'multiply' - Multiply\n'divide' - Divide\n");
     Console.WriteLine("\n\n Please remember, use commas instead of dots on every operation!\n\n");
     userChoice = Console.ReadLine();
-
-    switch(userChoice)
+    while(userChoice != "add" && userChoice != "subtract" && userChoice != "multiply" && userChoice != "divide" && userChoice != "exit")
+    {
+        Console.WriteLine("Specify a valid operation");
+        userChoice = Console.ReadLine();
+    }
+    switch (userChoice)
     {
         case "add":
 
@@ -162,6 +166,8 @@ while(userChoice != "exit")
                 Console.WriteLine("The result is: " + finalResult.ToString("0.00") + "\n");
             } while (sameOperation());
             break;
+
+
     }
 }
 
